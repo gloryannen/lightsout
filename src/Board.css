@@ -1,0 +1,10 @@
+.Board {
+  margin: 0 auto;
+  border: 3px solid whitesmoke;
+}
+
+.winner {
+  font-family: fantasy;
+  letter-spacing: 1px;
+  font-weight: lighter;
+}

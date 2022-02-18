@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: whitesmoke;
+  font-family: fantasy;
+  letter-spacing: 1px;
+  font-weight: lighter;
+  font-size: 4rem;
+  padding: 10px;
+}
+
+h1 > i {
+  color: whitesmoke;
+  background-color: black;
+}
+
+body {
+  background-color: rgb(27, 27, 27);
+}
